@@ -80,7 +80,7 @@
   </build>
   <distributionManagement>
 	<repository>
-      <id>artifactory</id>
+      <id>java-web-project</id>
       <name>java-web-project</name>
       <url>http://localhost:8081/artifactory/java-web-project/</url>
     </repository>
